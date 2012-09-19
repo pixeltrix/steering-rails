@@ -1,5 +1,7 @@
 # Ruby-on-Rails integration for Handlebars.js precompiled templates.
 
+[![Build Status][build]][travis] [![Dependency Status][depends]][gemnasium]
+
 This gem provides integration for Ruby-on-Rails projects with [Handlebars.js][1] javascript templates.
 
 ## Installation
@@ -55,3 +57,7 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 [1]: https://github.com/wycats/handlebars.js
+[build]: https://secure.travis-ci.org/pixeltrix/steering-rails.png
+[travis]: http://travis-ci.org/pixeltrix/steering-rails
+[depends]: https://gemnasium.com/pixeltrix/steering-rails.png?travis
+[gemnasium]: https://gemnasium.com/pixeltrix/steering-rails
