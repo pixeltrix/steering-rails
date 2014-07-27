@@ -21,4 +21,6 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'sprockets', '>= 2.1'
   gem.add_runtime_dependency 'railties',  '>= 3.1'
   gem.add_runtime_dependency 'steering',  '~> 1.3.0'
+
+  gem.add_development_dependency 'appraisal', '~> 1.0.0'
 end

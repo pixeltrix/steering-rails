@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class SteeringRailsTest < Test::Unit::TestCase
+class SteeringRailsTest < ActiveSupport::TestCase
   FIXTURE_ROOT = File.expand_path('../fixtures', __FILE__)
 
   def fixture_path(path)
