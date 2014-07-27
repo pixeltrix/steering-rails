@@ -24,6 +24,12 @@ TODO: write usage instructions
 
 ## Changelog
 
+### 1.3.0
+
+* Bumped steering version to 1.3.0
+* Updated Handlbars assets to 1.3.0
+
+
 ### 1.1.0
 
 * Bumped steering version to 1.1.1
