@@ -1,3 +1,4 @@
+require "steering"
 require "tilt"
 
 module Steering
